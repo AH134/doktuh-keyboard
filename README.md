@@ -2,7 +2,7 @@
 
 > WIP as I have not yet received the PCBs and parts to assemble the keyboard.
 
-It's just a [Sweep](https://github.com/davidphilipbarr/Sweep), specifically the Sweep High with a tase of [Arknights](https://www.arknights.global/) themed design.
+It's just a [Sweep](https://github.com/davidphilipbarr/Sweep) (Sweep High) with [Arknights](https://www.arknights.global/) design.
 
 ## Notes
 
